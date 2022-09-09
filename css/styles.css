@@ -1,0 +1,30 @@
+body{
+    background-color: rgba(38, 148, 142, 0.815);
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 0%;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    right: 200px;
+    width: 180px;
+    border-radius: 50%;
+    float:left;
+    z-index: -1;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(3, 123, 153, 0.562);
+        
+
+}
+  
+
+
+
+
