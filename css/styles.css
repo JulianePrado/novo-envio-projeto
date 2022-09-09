@@ -1,4 +1,5 @@
 body{
+    display: flex;
     background-color: rgba(38, 148, 142, 0.815);
     margin-right: 10%;
     margin-left: 10%;
@@ -20,9 +21,11 @@ ul{
     margin: 0;
     padding: 0;
     background-color: rgba(3, 123, 153, 0.562);
-        
-
 }
+
+.flex-container {
+    align-items: stretch | flex-start | flex-end | center | baseline;
+  }
   
 
 
